@@ -18,7 +18,7 @@ Enter the command in your cmd (in the krunker_latency folder) `pip install -r re
 
 # Start
 
-Start the `app.py` first, then past the `script.js` into your client (f12 or shift ctrl i)
+Start the `app.py` (py app.py) first, then past the `script.js` into your client (f12 or shift ctrl i)
 
 
 # Link
